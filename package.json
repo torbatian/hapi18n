@@ -1,6 +1,6 @@
 {
   "name": "territory",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "i18n-node module for hapi.js",
   "main": "lib/index.js",
   "repository": "git+https://github.com/torbatian/territory.git",
