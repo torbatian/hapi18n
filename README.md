@@ -1,2 +1,2 @@
 # hapi18n
-Node i18n port for Hapi
+i18n-node module for hapi.js
