@@ -1,0 +1,27 @@
+{
+  "name": "hapi18n",
+  "version": "0.0.1",
+  "description": "i18n-node module for hapi.js",
+  "main": "lib/index.js",
+  "repository": "https://github.com/torbatian/hapi18n.git",
+  "author": "Hamed Torbatian <hamed.tm@gmail.com>",
+  "keywords": [
+    "hapi",
+    "i18n"
+  ],
+  "engines": {
+    "node": ">=8.9.0"
+  },
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "i18n": "^0.8.3",
+    "joi": "^13.0.2"
+  },
+  "peerDependencies": {
+    "hapi": "17.x.x"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
