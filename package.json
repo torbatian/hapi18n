@@ -1,9 +1,9 @@
 {
-  "name": "hapi18n",
+  "name": "territory",
   "version": "0.0.1",
   "description": "i18n-node module for hapi.js",
   "main": "lib/index.js",
-  "repository": "https://github.com/torbatian/hapi18n.git",
+  "repository": "git+https://github.com/torbatian/territory.git",
   "author": "Hamed Torbatian <hamed.tm@gmail.com>",
   "keywords": [
     "hapi",
